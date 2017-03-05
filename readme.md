@@ -20,3 +20,4 @@ Hello world from Elixir
 
 # References
 [Erlang Package Manager](https://hex.pm/)    
+[Elixir Crash Course](http://elixir-lang.org/crash-course.html)
