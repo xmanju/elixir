@@ -16,8 +16,9 @@ Hello world from Elixir
 
     elixir --version to get the current Elixir version
     iex - Interactive Elixir
-    
+
 
 # References
 [Erlang Package Manager](https://hex.pm/)    
 [Elixir Crash Course](http://elixir-lang.org/crash-course.html)
+[Eixir School](https://elixirschool.com/lessons/basics/pipe-operator/)
