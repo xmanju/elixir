@@ -1,3 +1,5 @@
 
 map = %{:a => 1, 2 => :b}
 IO.puts map[2]
+
+Enum.map(%{1 => 2, 3 => 4}, fn {k,v} -> IO.puts "key is #{k} and value is #{v}" end)
